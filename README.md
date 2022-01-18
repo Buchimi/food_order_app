@@ -1,16 +1,18 @@
-# food_order_app
+# THIS IS NOT A FOOD ORDER APP, THIS IS A LANGUAGE HOMEPAGE 
 
-A new Flutter project.
+Hey Michael, why don't you just give your apps proper names
+
+BECUZ I CHANGE MY MIND A LOT IN DEVELOPMENT
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this code, clone is and use the flutter run command.
+If you don't have flutter, get it becuz you're missing out
+especially if you're using that crappy react native i keep hearing about.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Also, I'm emulating on the google pixel 4. 
+I have not tried testing this home page on other screens or an IOS phone
+(BECUZ IOS IS TRASH AND I'M BROKE)
+Anyways, have fun with the app. 
+For inquiries, don't email me...
+Just kidding, you can email me.
